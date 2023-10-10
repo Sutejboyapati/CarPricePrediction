@@ -1,4 +1,0 @@
-randomisedSearchCV selects the best parameters from the mentioned
-verbose is used for displaying the results
-check what is cross validation
-there is a limitation with pip freeze. it doesn't catch imports in notebooks
